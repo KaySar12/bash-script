@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #
-#           CasaOS Update Script v0.4.6#
+#           CasaOS Update Script v1.1#
 #   GitHub: https://github.com/IceWhaleTech/CasaOS
 #   Issues: https://github.com/IceWhaleTech/CasaOS/issues
 #   Requires: bash, mv, rm, tr, grep, sed, curl/wget, tar, smartmontools, parted, ntfs-3g, net-tools
