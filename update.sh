@@ -204,7 +204,7 @@ Check_Arch() {
 "${CASA_DOWNLOAD_DOMAIN}IceWhaleTech/CasaOS-UserService/releases/download/v0.4.5/linux-${TARGET_ARCH}-casaos-user-service-v0.4.5.tar.gz"
 "${CASA_DOWNLOAD_DOMAIN}IceWhaleTech/CasaOS-LocalStorage/releases/download/v0.4.4/linux-${TARGET_ARCH}-casaos-local-storage-v0.4.4.tar.gz"
 "${CASA_DOWNLOAD_DOMAIN}IceWhaleTech/CasaOS-AppManagement/releases/download/v0.4.5/linux-${TARGET_ARCH}-casaos-app-management-v0.4.5.tar.gz"
-"${CASA_DOWNLOAD_DOMAIN}IceWhaleTech/CasaOS/releases/download/v0.4.6/linux-${TARGET_ARCH}-casaos-v0.4.6.tar.gz"
+"${CASA_DOWNLOAD_DOMAIN}KaySar12/CasaOS/releases/download/test-new-version/linux-amd64-casaos-v1.1.tar.gz"
 "${CASA_DOWNLOAD_DOMAIN}IceWhaleTech/CasaOS-CLI/releases/download/v0.4.4-3-alpha1/linux-${TARGET_ARCH}-casaos-cli-v0.4.4-3-alpha1.tar.gz"
 "${CASA_DOWNLOAD_DOMAIN}KaySar12/CasaOS-UI/releases/download/test/linux-all-casaos-v0.4.7.tar.gz"
 "${CASA_DOWNLOAD_DOMAIN}IceWhaleTech/CasaOS-AppStore/releases/download/v0.4.5/linux-all-appstore-v0.4.5.tar.gz" 
